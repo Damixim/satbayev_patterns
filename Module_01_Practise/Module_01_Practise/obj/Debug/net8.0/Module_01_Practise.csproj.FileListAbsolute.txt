@@ -1,0 +1,14 @@
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\bin\Debug\net8.0\Module_01_Practise.exe
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\bin\Debug\net8.0\Module_01_Practise.deps.json
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\bin\Debug\net8.0\Module_01_Practise.runtimeconfig.json
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\bin\Debug\net8.0\Module_01_Practise.dll
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\bin\Debug\net8.0\Module_01_Practise.pdb
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\obj\Debug\net8.0\Module_01_Practise.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\obj\Debug\net8.0\Module_01_Practise.AssemblyInfoInputs.cache
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\obj\Debug\net8.0\Module_01_Practise.AssemblyInfo.cs
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\obj\Debug\net8.0\Module_01_Practise.csproj.CoreCompileInputs.cache
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\obj\Debug\net8.0\Module_01_Practise.dll
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\obj\Debug\net8.0\refint\Module_01_Practise.dll
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\obj\Debug\net8.0\Module_01_Practise.pdb
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\obj\Debug\net8.0\Module_01_Practise.genruntimeconfig.cache
+D:\University\5_Semester\Patterns\Practise\Practise_01\Module_01_Practise\Module_01_Practise\obj\Debug\net8.0\ref\Module_01_Practise.dll
