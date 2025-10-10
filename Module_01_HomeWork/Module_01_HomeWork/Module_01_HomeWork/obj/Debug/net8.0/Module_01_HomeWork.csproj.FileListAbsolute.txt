@@ -1,0 +1,14 @@
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\bin\Debug\net8.0\Module_01_HomeWork.exe
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\bin\Debug\net8.0\Module_01_HomeWork.deps.json
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\bin\Debug\net8.0\Module_01_HomeWork.runtimeconfig.json
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\bin\Debug\net8.0\Module_01_HomeWork.dll
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\bin\Debug\net8.0\Module_01_HomeWork.pdb
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\obj\Debug\net8.0\Module_01_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\obj\Debug\net8.0\Module_01_HomeWork.AssemblyInfoInputs.cache
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\obj\Debug\net8.0\Module_01_HomeWork.AssemblyInfo.cs
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\obj\Debug\net8.0\Module_01_HomeWork.csproj.CoreCompileInputs.cache
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\obj\Debug\net8.0\Module_01_HomeWork.dll
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\obj\Debug\net8.0\refint\Module_01_HomeWork.dll
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\obj\Debug\net8.0\Module_01_HomeWork.pdb
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\obj\Debug\net8.0\Module_01_HomeWork.genruntimeconfig.cache
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_01\Module_01_HomeWork\Module_01_HomeWork\Module_01_HomeWork\obj\Debug\net8.0\ref\Module_01_HomeWork.dll
