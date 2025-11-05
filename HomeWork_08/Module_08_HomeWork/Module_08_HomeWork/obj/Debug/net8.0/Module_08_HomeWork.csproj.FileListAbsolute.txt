@@ -1,0 +1,14 @@
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\bin\Debug\net8.0\Module_08_HomeWork.exe
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\bin\Debug\net8.0\Module_08_HomeWork.deps.json
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\bin\Debug\net8.0\Module_08_HomeWork.runtimeconfig.json
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\bin\Debug\net8.0\Module_08_HomeWork.dll
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\bin\Debug\net8.0\Module_08_HomeWork.pdb
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\obj\Debug\net8.0\Module_08_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\obj\Debug\net8.0\Module_08_HomeWork.AssemblyInfoInputs.cache
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\obj\Debug\net8.0\Module_08_HomeWork.AssemblyInfo.cs
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\obj\Debug\net8.0\Module_08_HomeWork.csproj.CoreCompileInputs.cache
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\obj\Debug\net8.0\Module_08_HomeWork.dll
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\obj\Debug\net8.0\refint\Module_08_HomeWork.dll
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\obj\Debug\net8.0\Module_08_HomeWork.pdb
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\obj\Debug\net8.0\Module_08_HomeWork.genruntimeconfig.cache
+D:\University\5_Semester\Patterns\HomeWork\HomeWork_08\Module_08_HomeWork\Module_08_HomeWork\obj\Debug\net8.0\ref\Module_08_HomeWork.dll
